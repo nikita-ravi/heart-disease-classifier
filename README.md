@@ -7,8 +7,7 @@ The goal of this project is to go through the data science lifecycle steps in or
 
 # Installation
 All libraries are available in Anaconda distribution of Python.
-
-Dataset
+# Dataset
 The dataset has 14 attributes:
 
 age: age in years.
